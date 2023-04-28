@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
 <!--
 **Josoriop9/Josoriop9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
