@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a technical trainer for Cloud Computing...
 
-- Some languages I used in my projects
+- Some languages I used in my projects:
 
 <p>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
