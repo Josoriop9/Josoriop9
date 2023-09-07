@@ -16,8 +16,9 @@
 </p>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9)](https://github.com/Josoriop9)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?josoriop9=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent)
 
 
 
