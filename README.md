@@ -16,25 +16,22 @@
 </p>
 
 
-
+<picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent)
+</picture>
 
 
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact"
-    media="(prefers-color-scheme: dark)"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact)
 </picture>
 
-<br>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true" />
-</picture>
+
+
+
+
+
 
 
 
@@ -60,13 +57,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 <picture>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent)
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true" />
 </picture>
 
-
+<br>
 
 <picture>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact)
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true" />
 </picture>
 -->
