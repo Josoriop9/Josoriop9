@@ -3,6 +3,14 @@ ________________________________________________________________
 
 Hello, I'm Juan Carlos Osorio, a passionate and aspiring Junior Front-End Developer with a strong enthusiasm for creating visually appealing and user-friendly websites and web applications. I am dedicated to continuously learning and growing in the ever-evolving field of web development.
 
+<div>
+<a href="https://github.com/josoriop9">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<br>
+
 ### Languages
 ________________________________________________________________
 
@@ -25,13 +33,7 @@ ________________________________________________________________
 
 
 
-<div>
-<a href="https://github.com/josoriop9">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
-<br>
 
 🌱 I’m currently learning
 
