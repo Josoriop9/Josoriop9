@@ -18,30 +18,11 @@
 </p>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent&size_weight=7&count_weight=6)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact&show_icons=true&theme=transparent)
-
-
-
 <div>
 <a href="https://github.com/josoriop9">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
