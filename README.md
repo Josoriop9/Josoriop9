@@ -3,6 +3,9 @@ ________________________________________________________________
 
 Hello, I'm Juan Carlos Osorio, a passionate and aspiring Junior Front-End Developer with a strong enthusiasm for creating visually appealing and user-friendly websites and web applications. I am dedicated to continuously learning and growing in the ever-evolving field of web development.
 
+### Hi there! 👋
+________________________________________________________________
+
 <p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
