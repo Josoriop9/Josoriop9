@@ -21,8 +21,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact&size_weight=0.5&count_weight=0.5)
 
 
 
