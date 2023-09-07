@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 - 🔭 I’m currently working as a technical trainer for Cloud Computing...
 
@@ -19,6 +19,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9anuraghazra&layout=compact)
 
 
 
