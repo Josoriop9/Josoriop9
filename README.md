@@ -17,8 +17,7 @@
 
 <p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent&size_weight=0&count_weight=1)
 </p>
 
 
