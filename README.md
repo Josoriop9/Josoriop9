@@ -3,7 +3,7 @@ ________________________________________________________________
 
 Hello, I'm Juan Carlos Osorio, a passionate and aspiring Junior Front-End Developer with a strong enthusiasm for creating visually appealing and user-friendly websites and web applications. I am dedicated to continuously learning and growing in the ever-evolving field of web development.
 
-### Hi there! 👋
+### Languages
 ________________________________________________________________
 
 <p>
