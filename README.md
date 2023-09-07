@@ -22,7 +22,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9"
     media="(prefers-color-scheme: dark)"/>
   <img src="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true" />
 </picture>
