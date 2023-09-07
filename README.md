@@ -21,6 +21,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent)
 </picture>
 
+<br>
+
 <picture>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoriop9&layout=compact)
 </picture>
