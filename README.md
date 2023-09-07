@@ -17,7 +17,7 @@
 
 🌱 I’m currently learning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=josoriop9_icons=true&theme=radical)
 
 
 
