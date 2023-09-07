@@ -16,7 +16,7 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9)](https://github.com/Josoriop9)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=transparent)
 
