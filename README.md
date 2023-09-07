@@ -15,11 +15,11 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-<div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?josoriop9=anuraghazra&show_icons=true&bg_color=00000000)
 
-</div>
+
 
 
 
