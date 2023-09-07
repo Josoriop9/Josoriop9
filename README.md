@@ -24,7 +24,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=josoriop9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+<br>
 
 🌱 I’m currently learning
 
