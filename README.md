@@ -1,8 +1,8 @@
 ### Hi there! 👋
 ________________________________________________________________
 
-Hello, I'm Juan Carlos Osorio, a passionate and aspiring Junior Front-End Developer with a strong enthusiasm for creating visually appealing and user-friendly websites and web applications. I am dedicated to continuously learning and growing in the ever-evolving field of web development.
-Beyond coding, I have a strong interest in staying up-to-date with the latest industry trends and attending web development meetups and conferences. I also enjoy [mention any relevant hobbies or interests related to technology or development].
+Hello, I'm Juan Carlos Osorio, a passionate Front-End Developer with a strong enthusiasm for creating visually appealing and user-friendly websites and web applications. I am dedicated to continuously learning and growing in the ever-evolving field of web development.
+Beyond coding, I have a strong interest in staying up-to-date with the latest industry trends and attending web development meetups and conferences. I also enjoy flying my drone!
 
 <div>
 <a href="https://github.com/josoriop9">
