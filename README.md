@@ -4,6 +4,8 @@ ________________________________________________________________
 Hello, I'm Juan Carlos Osorio, a passionate Front-End Developer with a strong enthusiasm for creating visually appealing and user-friendly websites and web applications. I am dedicated to continuously learning and growing in the ever-evolving field of web development.
 Beyond coding, I have a strong interest in staying up-to-date with the latest industry trends and attending web development meetups and conferences. I also enjoy flying my drone!
 
+Currently I am working as technical trainer on Cloud Computing and previously I performed as Solutions Architect.
+
 <br>
 
 <div>
