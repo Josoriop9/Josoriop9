@@ -36,7 +36,7 @@ ________________________________________________________________
 
 
 🌱 I’m currently learning
-- Automotive
+- Artificial Intelligence
 - Machine leaarning
 
 ### Contact
